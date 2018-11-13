@@ -1,4 +1,5 @@
 package lexer;
+
 public class Tag {
     public final static int
         AND = 256, BASIC = 257, BREAK = 258, DO = 259, ELSE = 260,
